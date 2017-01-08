@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">muzika</string>
+    <string name="action_settings">Settings</string>
+    <string name="finish">finish</string>
+    <string name="nr">nr</string>
+    <string name="audio">audio</string>
+    <string name="note">note</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="button">button</string>
+
+
+</resources>
